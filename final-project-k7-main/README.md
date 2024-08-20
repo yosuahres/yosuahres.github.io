@@ -1,12 +1,6 @@
 # Final Project
 
-## Kelompok 7
-
-## Anggota Kelompok
-- Yosua Hares
-- Ricardo Supriyanto
-
-## Tema Project
+## Project
 Forum Tanya Jawab
 
 ## ERD Design
@@ -17,5 +11,4 @@ Forum Tanya Jawab
 - Setiap kategori dapat memiliki lebih dari satu post dan setiap post dapat memiliki lebih dari satu kategori
 
 ## Link Video
-Link Demo Aplikasi  : 
 Link Deploy         : 

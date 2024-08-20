@@ -1,0 +1,24 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/rival/rival_ws/devel/include/**",
+        "/opt/ros/melodic/include/**",
+        "/home/rival/rival_ws/src/computer_vision/include/**",
+        "/home/rival/rival_ws/src/computer_vision2/include/**",
+        "/home/rival/rival_ws/src/romusa/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-arm64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

@@ -1,8 +1,0 @@
-BACKGROUND
-daun
-plastik
-ferro
-kertas
-nonferro
-botol
-koran
